@@ -1,6 +1,4 @@
-# Project Title
-
-The Future of Finance - how AI will revolutionise stockpicking techniques
+## The Future of Finance - how AI will revolutionise stockpicking techniques
 ## Summary
 
 As AI becomes more powerful, it will be able to collect far more data far quicker than any human analyst. This will alllow it to, without emotions, be able to optimise stock trading as better-informed programs make the best choice in a fraction of the time, and do not require a high salary.
